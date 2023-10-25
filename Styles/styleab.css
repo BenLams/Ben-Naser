@@ -611,3 +611,39 @@ p{
     line-height: 2.5em;
     
 }
+
+.form h3 {
+    width: 220px;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 15px;
+    color: rgb(14, 13, 13);
+    background-color: whitesmoke;
+    border-radius: 10px;
+    margin: 2px;
+    padding: 8px;
+}
+
+.form h4 {
+    width: 220px;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 15px;
+    color: rgb(14, 13, 13);
+    background-color: whitesmoke;
+    border-radius: 10px;
+    margin: 2px;
+    padding: 8px;
+}
+
+.form .ben {
+    color: white;
+    text-align: center;
+    font-size: 17px;
+    padding-top: 10px;
+}
+
+.form .Naser {
+    color: chocolate;
+    padding-right: 100px;
+}
