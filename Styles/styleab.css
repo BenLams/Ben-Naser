@@ -612,26 +612,3 @@ p{
     
 }
 
-.dropdown_menu{
-    display: none;
-}
-
-.dropdown_menu ul li:hover{
-    display: block;
-    position: absolute;
-    left: 0;
-    top: 100%;
-    background-color: darkgoldenrod;
-}
-
-.dropdown_menu ul{
-    display: block;
-    margin: 10px;
-}
-
-.dropdown_menu ul li{
-    width: 150px;
-    padding: 10px;
-}
-
-
